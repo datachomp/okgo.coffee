@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "ok go and coffee"
-baseurl = "http://www.okgo.coffee/"
+baseurl = "https://www.okgo.coffee/"
 
 buildDrafts = true
 
