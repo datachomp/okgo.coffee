@@ -1,3 +1,4 @@
+contentdir = "content"
 languageCode = "en-us"
 title = "ok go and coffee"
 baseurl = "https://www.okgo.coffee/"
@@ -14,7 +15,7 @@ disqusshortname = ""
 pluralizelisttitles = false
 
 [permalinks]
-blog = "blog/:slug/"
+meetings = "meetings/:slug/"
 
 [params]
 dateform = "Jan 2, 2006"
@@ -27,3 +28,8 @@ lang = "en"
 github = "okgo-coffee"
 email = "contact@okgo.coffee"
 twitter = "@okgocoffee"
+
+
+
+[taxonomies]
+meetings = "blog"

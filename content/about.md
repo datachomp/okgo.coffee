@@ -4,9 +4,10 @@ title = "about"
 
 +++
 
-Getting Started:
+Mission:  
+Nice relaxing way for Oklahoma technologist to get together and discuss [golang](https://golang.org/)
 
-Mission:
-
-
-This group is lightly organized by the following:
+This group is lightly organized by the following:  
+[devin clark](https://twitter.com/idevinclark)  
+[rob sullivan](https://twitter.com/datachomp)  
+[sam snelling](https://twitter.com/snellingio)  
