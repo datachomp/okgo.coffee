@@ -1,3 +1,29 @@
 languageCode = "en-us"
 title = "ok go and coffee"
-baseurl = "http://okgo.coffee/"
+baseurl = "http://www.okgo.coffee/"
+
+buildDrafts = true
+
+theme = "cocoa-eh"
+builddrafts = true
+canonifyurls = true
+layoutdir = "layouts"
+publishdir = "public"
+author = "Alexis Tacnet"
+disqusshortname = ""
+pluralizelisttitles = false
+
+[permalinks]
+blog = "blog/:slug/"
+
+[params]
+dateform = "Jan 2, 2006"
+dateformfull = "Mon Jan 2 2006 15:04:05 MST"
+description = "learning go one sip at a time"
+logofile = "img/logo.png"
+faviconfile = "img/logo.png"
+highlightjs = true
+lang = "en"
+github = "okgo-coffee"
+email = "contact@okgo.coffee"
+twitter = "@okgocoffee"
