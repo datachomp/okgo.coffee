@@ -12,4 +12,4 @@ Meeting locations:
 edmond: [coffee tree](http://coffeetree.coffee/)
 norman: [michelangelos coffee](http://michelangeloscoffeeandwine.com/)
 
-Meeting date:  
+Meeting date:  Feb 15th

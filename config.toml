@@ -25,7 +25,7 @@ logofile = "img/logo.png"
 faviconfile = "img/logo.png"
 highlightjs = true
 lang = "en"
-github = "okgo-coffee"
+github = "datachomp/okgo.coffee"
 email = "contact@okgo.coffee"
 twitter = "@okgocoffee"
 
