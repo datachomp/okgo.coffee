@@ -9,8 +9,12 @@ Nice relaxing way for Oklahoma technologist to get together and discuss [golang]
 
 This group is lightly organized by the following:  
 [devin clark](https://twitter.com/idevinclark)  
+[jeff french](https://twitter.com/jeff_french)  
+[ryan labouve](https://twitter.com/ryanlaBouve)  
+[john mosesman](https://twitter.com/johnmosesman)  
+[sam snelling](https://twitter.com/snellingio)   
 [rob sullivan](https://twitter.com/datachomp)  
-[sam snelling](https://twitter.com/snellingio)  
+
 
 
   

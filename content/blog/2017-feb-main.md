@@ -11,5 +11,7 @@ Discussion of the book [Introducing Go](http://shop.oreilly.com/product/06369200
 Meeting locations:  
 edmond: [coffee tree](http://coffeetree.coffee/)  
 norman: [michelangelos coffee](http://michelangeloscoffeeandwine.com/)  
+okc:  TBD
   
 Meeting date:  Feb 15th  
+Meeting time:  9am to 11am
