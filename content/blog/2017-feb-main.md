@@ -15,3 +15,6 @@ okc:  TBD
   
 Meeting date:  Feb 15th  
 Meeting time:  9am to 11am
+  
+
+This months featured sponsors: SalesForce, dockyard, fiverr ($5 for each organizer)
