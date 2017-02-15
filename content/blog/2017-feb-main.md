@@ -13,7 +13,7 @@ Note: if you don't have the book or didn't read, just talk to someone about what
 Meeting locations:  
 edmond: [coffee tree](http://coffeetree.coffee/)  
 norman: [michelangelos coffee](http://michelangeloscoffeeandwine.com/)  
-okc: [elementa](http://elementalcoffee.com/)
+okc: [elemental](http://elementalcoffee.com/)
   
 Meeting date:  Feb 15th  
 Meeting time:  9am to 11am
