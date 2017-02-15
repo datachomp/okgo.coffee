@@ -8,10 +8,12 @@ title = "func main"
 This months topic:  
 Discussion of the book [Introducing Go](http://shop.oreilly.com/product/0636920046516.do)  
   
+Note: if you don't have the book or didn't read, just talk to someone about what you are working on or what you are interested in.  
+  
 Meeting locations:  
 edmond: [coffee tree](http://coffeetree.coffee/)  
 norman: [michelangelos coffee](http://michelangeloscoffeeandwine.com/)  
-okc:  TBD
+okc: [elementa](http://elementalcoffee.com/)
   
 Meeting date:  Feb 15th  
 Meeting time:  9am to 11am
