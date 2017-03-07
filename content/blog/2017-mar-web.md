@@ -11,6 +11,7 @@ Discussion of [Go Web Examples](https://gowebexamples.github.io/)
 Meeting locations:  
 edmond: [coffee tree](http://coffeetree.coffee/)  
 norman: [michelangelos coffee](http://michelangeloscoffeeandwine.com/)  
+tulsa: [Foolish Things Coffee Company](http://www.foolishthingscoffee.com/)  
   
 Meeting date:  Mar 8th  
 Meeting time:  9am to 11am  
